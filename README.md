@@ -37,5 +37,3 @@ RMSE: 5956.63
 
 Conclusion
 The SVR model outperformed Linear Regression, making it the selected model for this project due to its higher accuracy and lower prediction error.
-Conclusion
-The SVR model outperformed Linear Regression, making it the selected model for this project due to its higher accuracy and lower prediction error.

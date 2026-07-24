@@ -1,4 +1,4 @@
-Medical Expense Cost Prediction
+Medical Expense Prediction
 
 Main Objective
 The main objective of this project is to use existing medical expense for predicting future medical expenses of individuals to help medical insurance to make decision on charging the premium , using machine learning, and compare the performance of Support Vector Regression (SVR) against Linear Regression to find the most accurate model.
